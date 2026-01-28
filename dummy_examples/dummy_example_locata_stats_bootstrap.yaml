@@ -1,0 +1,64 @@
+locata:
+  FAR:
+    mean:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+    std:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+  MOTA:
+    mean:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+    std:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+  mean_OSPA:
+    mean:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+    std:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+  pd:
+    mean:
+      mean: 1.0
+      median: 1.0
+      std: 0.0
+    std:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+  track_frag_rate:
+    mean:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+    std:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+  track_latency:
+    mean:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+    std:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+  track_swap_rate:
+    mean:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+    std:
+      mean: 0.0
+      median: 0.0
+      std: 0.0

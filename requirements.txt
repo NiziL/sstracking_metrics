@@ -1,0 +1,8 @@
+einops
+librosa
+numpy
+pygmtools
+pyyaml
+scipy
+torch
+tqdm

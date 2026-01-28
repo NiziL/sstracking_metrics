@@ -1,0 +1,64 @@
+locata:
+  FAR:
+    mean:
+      mean: 11.71875
+      median: 15.625
+      std: 11.97633571621554
+    std:
+      mean: 5.46875
+      median: 0.0
+      std: 7.4526500110698874
+  MOTA:
+    mean:
+      mean: 0.3877499962225556
+      median: 0.5099999951198697
+      std: 0.3821958722820899
+    std:
+      mean: 0.1742499983869493
+      median: 0.0
+      std: 0.2364226860339839
+  mean_OSPA:
+    mean:
+      mean: 14.92088794708252
+      median: 18.75
+      std: 6.498527277358507
+    std:
+      mean: 1.8339143753051759
+      median: 0.0
+      std: 2.9145294853413874
+  pd:
+    mean:
+      mean: 1.0
+      median: 1.0
+      std: 0.0
+    std:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+  track_frag_rate:
+    mean:
+      mean: 0.3984375
+      median: 0.3125
+      std: 0.10452412625202853
+    std:
+      mean: 0.0546875
+      median: 0.0
+      std: 0.07452650011069888
+  track_latency:
+    mean:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+    std:
+      mean: 0.0
+      median: 0.0
+      std: 0.0
+  track_swap_rate:
+    mean:
+      mean: 0.3984375
+      median: 0.3125
+      std: 0.10452412625202853
+    std:
+      mean: 0.0546875
+      median: 0.0
+      std: 0.07452650011069888

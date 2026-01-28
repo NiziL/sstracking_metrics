@@ -1,0 +1,25 @@
+This project includes or depends on the following third-party software:
+
+- PyTorch — BSD 3-Clause License
+    https://github.com/pytorch/pytorch/blob/main/LICENSE
+
+- NumPy — BSD 3-Clause License
+    https://github.com/numpy/numpy
+
+- SciPy — BSD 3-Clause License
+    https://github.com/scipy/scipy/blob/main/LICENSE.txt
+
+- librosa — ISC License
+    https://github.com/librosa/librosa/blob/main/LICENSE.md
+
+- einops — MIT License
+    https://github.com/arogozhnikov/einops/blob/master/LICENSE
+
+- pyyaml — MIT License
+    https://github.com/yaml/pyyaml/blob/main/LICENSE
+
+- tqdm — MPL 2.0 / MIT License
+    https://github.com/tqdm/tqdm
+
+- pygmtools — Mulan PSL v2 License
+    https://github.com/Thinklab-SJTU/pygmtools

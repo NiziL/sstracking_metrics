@@ -1,0 +1,39 @@
+association:
+  accuracy:
+    mean: 0.465625
+    median: 0.5
+    std: 0.04180965050081142
+  precision:
+    mean: 1.0
+    median: 1.0
+    std: 0.0
+  recall:
+    mean: 0.465625
+    median: 0.5
+    std: 0.04180965050081142
+detection:
+  accuracy:
+    mean: 0.7833333333333333
+    median: 0.6666666666666666
+    std: 0.2048034287907418
+  precision:
+    mean: 0.7833333333333333
+    median: 0.6666666666666666
+    std: 0.2048034287907418
+  recall:
+    mean: 1.0
+    median: 1.0
+    std: 0.0
+localization:
+  accuracy_tol:
+    mean: 0.43125
+    median: 0.5
+    std: 0.08361930100162283
+  mean:
+    mean: 15.739332992458515
+    median: 6.740861612400152
+    std: 10.944667445579476
+  median:
+    mean: 17.051123163090914
+    median: 6.74086161240015
+    std: 12.540172567457017

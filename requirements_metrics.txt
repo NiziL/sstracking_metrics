@@ -1,0 +1,5 @@
+numpy
+pygmtools
+pyyaml
+scipy
+tqdm

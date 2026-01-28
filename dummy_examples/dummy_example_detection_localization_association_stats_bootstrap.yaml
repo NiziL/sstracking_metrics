@@ -1,0 +1,39 @@
+association:
+  accuracy:
+    mean: 1.0
+    median: 1.0
+    std: 0.0
+  precision:
+    mean: 1.0
+    median: 1.0
+    std: 0.0
+  recall:
+    mean: 1.0
+    median: 1.0
+    std: 0.0
+detection:
+  accuracy:
+    mean: 1.0
+    median: 1.0
+    std: 0.0
+  precision:
+    mean: 1.0
+    median: 1.0
+    std: 0.0
+  recall:
+    mean: 1.0
+    median: 1.0
+    std: 0.0
+localization:
+  accuracy_tol:
+    mean: 1.0
+    median: 1.0
+    std: 0.0
+  mean:
+    mean: 0.0034820661904542945
+    median: 0.00357526527144061
+    std: 0.00028611299039121797
+  median:
+    mean: 0.0009861001193125433
+    median: 0.0009070403998940563
+    std: 0.00032630864370107615
