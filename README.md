@@ -82,12 +82,10 @@ The dataset can be downloaded from the [official LibriJump repository](https://z
 
 ```
 .
-├── tracking_metrics/        # SST metrics implementations
+├── src/tracking_metrics/    # SST metrics implementations
 ├── dummy_examples/          # Example of YAML metric outputs
 ├── dummy_example_metrics.py # Minimal fabricated example
 ├── dummy_example.py         # Example using the LibriJump dataset
-├── requirements.txt
-├── requirements_metrics.txt
 ```
 
 ---
@@ -105,17 +103,18 @@ Both scripts generate YAML files containing metric results in the `./dummy_examp
 
 ## Environment Setup
 
-- To run both example scripts, run the following command:
-
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-It is recommended to use a dedicated virtual environment:
+It is recommended to use a dedicated virtual environment before installing the package, either using conda/mamba
 
 ```bash
 conda create -n sstracking_metrics python=3.12
 conda activate sstracking_metrics
+```
+
+or a classic venv
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
 ```
 
 ---
